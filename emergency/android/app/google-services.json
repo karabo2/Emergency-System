@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769054384259",
+    "firebase_url": "https://smashgrab.firebaseio.com",
+    "project_id": "smashgrab",
+    "storage_bucket": "smashgrab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769054384259:android:0d6914ab4450b7ea2fbbb6",
+        "android_client_info": {
+          "package_name": "com.project.emergency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769054384259-9muqfuem4o91bja70t65l9aulqm1n0lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.emergency",
+            "certificate_hash": "ab7de45862a3091a66554660c023f63d85977612"
+          }
+        },
+        {
+          "client_id": "769054384259-k5hgfe9pckl7b32p2fndhi0rrft10oqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT5cvbxFjcKlAHVRCgS3S44g_efP7Tc04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769054384259-k5hgfe9pckl7b32p2fndhi0rrft10oqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
